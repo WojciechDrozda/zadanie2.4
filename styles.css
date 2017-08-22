@@ -26,6 +26,7 @@ img {
 }
 .contactForm {
 	border: 1px solid #000;
+	padding: 10px;
 }
 .contactsList {
 	border: 1px solid grey;
